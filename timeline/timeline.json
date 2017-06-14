@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.5.2
+ */
+
+// Database 'timeline'
+
+// timeline.users
+
+[{"id":"2","username":"bhuvan","password":"cdb10a5c7ac522f70656c7e8121e1432","email":"bhuvan@gmail.com"}, {"id":"3","username":"Anetha","password":"3835704b6ae90fc129038a2aeb7e0c3a","email":"Anetharanganathan28@gmail.com"}, {"id":"4","username":"krishna","password":"e10adc3949ba59abbe56e057f20f883e","email":"priyar@gmail.com"}, {"id":"6","username":"Chandhanu","password":"26c322652770620e64ac90682eb6504c","email":"chandhanumk@gmail.com"}]
